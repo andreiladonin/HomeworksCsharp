@@ -1,0 +1,13 @@
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\bin\Debug\netcoreapp3.1\homework17.exe
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\bin\Debug\netcoreapp3.1\homework17.deps.json
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\bin\Debug\netcoreapp3.1\homework17.runtimeconfig.json
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\bin\Debug\netcoreapp3.1\homework17.runtimeconfig.dev.json
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\bin\Debug\netcoreapp3.1\homework17.dll
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\bin\Debug\netcoreapp3.1\homework17.pdb
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\obj\Debug\netcoreapp3.1\homework17.csprojAssemblyReference.cache
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\obj\Debug\netcoreapp3.1\homework17.AssemblyInfoInputs.cache
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\obj\Debug\netcoreapp3.1\homework17.AssemblyInfo.cs
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\obj\Debug\netcoreapp3.1\homework17.csproj.CoreCompileInputs.cache
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\obj\Debug\netcoreapp3.1\homework17.dll
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\obj\Debug\netcoreapp3.1\homework17.pdb
+C:\Users\ladon\Desktop\Документы\Csharp Project\firstProject\homework17\obj\Debug\netcoreapp3.1\homework17.genruntimeconfig.cache
